@@ -90,6 +90,33 @@ Project Status
 
 The project is complete, including the schematic, PCB, firmware-free hardware design, enclosure, and manufacturing files.
 
-License
+Components:
 
-See the repository for the license and individual component/library licensing information.
+| #  | Part                        | Designators     |           Qty | Unit price |   Extended |
+| -- | --------------------------- | --------------- | ------------: | ---------: | ---------: |
+| 1  | 2.2 µF                      | C1,C2           |             2 |     $0.030 |     $0.060 |
+| 2  | 100 nF                      | C3–C8           |             6 |     $0.005 |     $0.030 |
+| 3  | USBLC6-2SC6                 | D1,D2           |             2 |     $0.184 |     $0.368 |
+| 4  | SS34                        | D3              |             1 |     $0.036 |     $0.036 |
+| 5  | DO2309A                     | Q1              |             1 |     $0.044 |     $0.044 |
+| 6  | MMBT3904                    | Q2              |             1 |     $0.010 |     $0.010 |
+| 7  | 100 kΩ                      | R1,R10,R16      |             3 |     $0.004 |     $0.012 |
+| 8  | 330 Ω                       | R2,R3,R4,R5,R14 |             5 |     $0.004 |     $0.020 |
+| 9  | 10 kΩ                       | R6,R13,R17      |             3 |     $0.003 |     $0.009 |
+| 10 | 49.9 Ω                      | R7,R8           |             2 |     $0.003 |     $0.006 |
+| 11 | 20 mΩ                       | R9              |             1 |     $0.033 |     $0.033 |
+| 12 | 6.49 kΩ                     | R11             |             1 |     $0.035 |     $0.035 |
+| 13 | 64.9 kΩ                     | R12             |             1 |     $0.058 |     $0.058 |
+| 14 | JS203011SCQN                | SW1             |             1 |     $1.279 |     $1.279 |
+| 15 | MHPA3528FRGBCT              | U2              |             1 |     $0.080 |     $0.080 |
+| 16 | MHPA3528FRGBCT              | U3              |             1 |     $0.080 |     $0.080 |
+| 17 | INA199A3DCKR                | U4              |             1 |     $0.475 |     $0.475 |
+| 18 | LMV393IDR                   | U5              |             1 |     $0.338 |     $0.338 |
+| 19 | TS3USB221ARSER              | U6              |             1 |     $0.261 |     $0.261 |
+| 20 | 74LVC139D,118               | U7              |             1 |     $0.460 |     $0.460 |
+| 21 | TLV75533PDBVR               | U8              |             1 |     $0.164 |     $0.164 |
+| 22 | SN74LVC1G04DBVR             | U9              |             1 |     $0.095 |     $0.095 |
+| 23 | SN74LVC1G08DBVR             | U10             |             1 |     $0.052 |     $0.052 |
+| 24 | AM180 USB-A male            | USB1            |             1 |     $0.072 |     $0.072 |
+| 25 | 11.0 180°CB1.9 USB-A female | USB2            |             1 |     $0.066 |     $0.066 |
+|    | **TOTAL**                   |                 | **43 pieces** |            | **$4.143** |
