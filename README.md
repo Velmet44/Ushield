@@ -123,4 +123,9 @@ Components:
 
 
 PCB FAB: (its usually not this high, i dont know why its like this, maybe ill try a different provider)
+
+
 <img width="1313" height="760" alt="image" src="https://github.com/user-attachments/assets/419b2054-2cf7-43c2-b735-b28e7dd7872d" />
+
+
+PCB Only - 5 USD + Shipping (~23 usd) (Taxes may be more, I am in India)
