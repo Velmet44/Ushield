@@ -24,7 +24,7 @@ Evening & Night - I continued work on circuit, hit a few problems - like powersu
 
         
 
-3 DAY 2
+# DAY 2
 
 Today I had school, so less time, I woke up pretty early
 
