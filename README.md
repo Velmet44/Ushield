@@ -84,15 +84,6 @@ CAD
 
 The enclosure and mechanical assembly files are included in the repository along with the PCB source and manufacturing files.
 
-Repository Structure
-.
-├── README.md
-├── PCB/
-├── CAD/
-├── BOM/
-└── images/
-Bill of Materials
-
 The complete BOM, including quantities, supplier links, component prices, and shipping costs, is included in the repository.
 
 Project Status
