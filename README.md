@@ -129,3 +129,10 @@ PCB FAB: (its usually not this high, i dont know why its like this, maybe ill tr
 
 
 PCB Only - 5 USD + Shipping (~23 usd) (Taxes may be more, I am in India)
+
+Some more pics:
+
+<img width="1140" height="421" alt="image" src="https://github.com/user-attachments/assets/b47a03a9-6b09-4c1d-8b6c-7ff79c4e0ab3" />
+<img width="1152" height="391" alt="image" src="https://github.com/user-attachments/assets/d349ab9c-479c-4994-8f95-089c5ad420e7" />
+<img width="1102" height="392" alt="image" src="https://github.com/user-attachments/assets/daa3eca2-a419-46fd-94b7-c071d1b16ea2" />
+<img width="1169" height="827" alt="Schematic_Dongle001_2026-08-28 (1)" src="https://github.com/user-attachments/assets/d03087a6-0b5b-498b-94c3-5d31f505fb3e" />
