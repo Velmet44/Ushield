@@ -120,3 +120,7 @@ Components:
 | 24 | AM180 USB-A male            | USB1            |             1 |     $0.072 |     $0.072 |
 | 25 | 11.0 180°CB1.9 USB-A female | USB2            |             1 |     $0.066 |     $0.066 |
 |    | **TOTAL**                   |                 | **43 pieces** |            | **$4.143** |
+
+
+PCB FAB: (its usually not this high, i dont know why its like this, maybe ill try a different provider)
+<img width="1313" height="760" alt="image" src="https://github.com/user-attachments/assets/419b2054-2cf7-43c2-b735-b28e7dd7872d" />
