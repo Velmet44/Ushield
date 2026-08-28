@@ -4,6 +4,8 @@ A compact USB security dongle with three physical modes: **OFF**, **POWER ONLY**
 
 Total Time : ~9hrs
 
+Software : EaseEDA
+
 I worked on this for 2 days (one of them was full other i had school)
 
 # DAY 1
