@@ -14,18 +14,18 @@ Morning - I started thinking of an idea, settled on this one, then started work 
         - I chose all the components and locked in the logics - like what the 3 button states do, LED indicators, etc
         - I prepared thruh table and logic for oversurge protection
         - I found all the components i needed from LCSC ( i chose lcsc because it is the main provider JLC PCB uses for assembly)
-        - Total time : ~2.5 hrs
+        - **Total time : ~2.5 hrs**
 
 Afternoon - I started wiring the components in the schematic, this took a long time, it was very complex
           - I decided normal Wiring was too complex for this, so i scraped what i had and started using nets and I seperated component clustures based on function
           - I finished about 40 percent wiring, then took a break
-          - Total time : ~2 hrs
+          - **Total time : ~2 hrs**
 
 Evening & Night - I continued work on circuit, hit a few problems - like powersurge protection logic, component availability
                 - I fianally finished teh oversurge protection part - this was the longest for me
                 - fixed the rgb led controler by replacing the old one with new one which has dual channel (earlier i was using 2 single channel - which was causing wiring issues)
                 - Almost done with the circuit
-                - Total time : ~1 hr
+                - **Total time : ~1 hr**
 
         
 
@@ -38,7 +38,7 @@ Morning - I started assembling components in pcb
         - I did some thinking, and decided to switch out all my 0603 and 0805 smd components for 0402 ones
         - Fianally got enough space, and finished arranging everything
         - Knew I couldnt finish everything in 30 mins, so i asked for an extention, got it
-        - Total time : ~45 mins
+        - **Total time : ~45 mins**
 
 Evening - I started routing, it was so hard, there were too many components, this was my first time making such a dense pcb. I even tried autorouting.
         - (PS, now only I found out how to attach images to this file)
@@ -47,16 +47,16 @@ Evening - I started routing, it was so hard, there were too many components, thi
         <img width="1125" height="361" alt="image" src="https://github.com/user-attachments/assets/47b35c84-0024-45ab-b59d-842e9cf5827a" />
         - Now autorouting worked ( i used an external auto router - FreeRouter ) and everything is connected
         - Took a Break
-        - Total time : ~2 hrs
+        - **Total time : ~2 hrs**
         
 Night - I did some final checking and logical simulations to make sure it will work
       - then I worked on some design of the pcb (spent like 5 mins)
       - I started writing a Readme, Preparing The files for the Repo, etc
       - I finished and submitted!
-      - Total time : ~1 hrs
+      - **Total time : ~1 hrs**
 
 
-This is the Fabrication Quote:
+**This is the Fabrication Quote:**
 
 <img width="1313" height="760" alt="image" src="https://github.com/user-attachments/assets/419b2054-2cf7-43c2-b735-b28e7dd7872d" />
 
@@ -66,12 +66,12 @@ This is the Fabrication Quote:
 
 Morning - Was asked some changes:(route manually is the main thing, rest are for readme, journal and fabrication)
         - I started investigating why the original Quote was high, found that the 2 usb conectors were big and could only be assembled with PCBA standard, so when i added the BOM, it changed my assembly mode from economic to standard, i decided that I will manually solder those 2 things, and switched back to PCBA economic
-        - Total time : 20 mins
+        - **Total time : 20 mins**
         
 
 Night - I got some more time today after school and some other activities, decided to work on the docs, (mainly Journal), I calculated times for each session, and collected screenshots for day 1.
       - Finished almost all required changes except manual routing. It is really late now, so i decided I would finish that the next day, and i plan to use LAPSE for the first time on this  
-      - Total time : ~1 hr
+      - **Total time : ~1 hr**
         
 
 
