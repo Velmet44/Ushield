@@ -1,6 +1,6 @@
-USB Security Dongle
+# USB Security Dongle
 
-Made in EasyEDA
+**Made in EasyEDA**
 
 A compact hardware USB dongle that lets you physically control whether a connected USB device receives power, data, or nothing at all.
 
