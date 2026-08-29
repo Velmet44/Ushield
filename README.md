@@ -7,8 +7,11 @@ A compact hardware USB dongle that lets you physically control whether a connect
 It has three modes:
 
 Mode	          Power	  Data
+
 OFF	            No	    No
+
 POWER ONLY	    Yes	    No
+
 POWER + DATA  	Yes	    Yes
 
 The entire device works in hardware, with no software, drivers, or companion application required.
