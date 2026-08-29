@@ -2,7 +2,7 @@
 
 A compact USB security dongle with three physical modes: **OFF**, **POWER ONLY**, and **POWER + DATA**. It gives you direct control over what a connected USB device can access, with built-in ESD protection, power monitoring, and status indicators. No software or drivers are needed.
 
-Total Time : ~12hrs
+Total Time : ~10.5hrs
 
 Software : EaseEDA
 
@@ -56,11 +56,23 @@ Night - I did some final checking and logical simulations to make sure it will w
       - Total time : ~1 hrs
 
 
+This is the Fabrication Quote:
+
+<img width="1313" height="760" alt="image" src="https://github.com/user-attachments/assets/419b2054-2cf7-43c2-b735-b28e7dd7872d" />
+
+
 
 # Day 3
 
 Morning - Was asked some changes:(route manually is the main thing, rest are for readme, journal and fabrication)
-        - I started investigating why the original Quote was high
+        - I started investigating why the original Quote was high, found that the 2 usb conectors were big and could only be assembled with PCBA standard, so when i added the BOM, it changed my assembly mode from economic to standard, i decided that I will manually solder those 2 things, and switched back to PCBA economic
+        - Total time : 20 mins
+        
+
+Night - I got some more time today after school and some other activities, decided to work on the docs, (mainly Journal), I calculated times for each session, and collected screenshots for day 1.
+      - Finished almost all required changes except manual routing. It is really late now, so i decided I would finish that the next day, and i plan to use LAPSE for the first time on this  
+      - Total time : ~1 hr
+        
 
 
 <img width="1140" height="421" alt="image" src="https://github.com/user-attachments/assets/b47a03a9-6b09-4c1d-8b6c-7ff79c4e0ab3" />
