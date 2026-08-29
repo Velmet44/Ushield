@@ -16,18 +16,26 @@ Morning - I started thinking of an idea, settled on this one, then started work 
         - I found all the components i needed from LCSC ( i chose lcsc because it is the main provider JLC PCB uses for assembly)
         - **Total time : ~2.5 hrs**
 
+<img width="1169" height="826" alt="Schematic_Dongle001_2026-08-29" src="https://github.com/user-attachments/assets/aad14be7-e7e6-4b3a-8f5b-4e7d0040088a" />
+
+
+
 Afternoon - I started wiring the components in the schematic, this took a long time, it was very complex
           - I decided normal Wiring was too complex for this, so i scraped what i had and started using nets and I seperated component clustures based on function
           - I finished about 40 percent wiring, then took a break
           - **Total time : ~2 hrs**
 
+<img width="716" height="496" alt="image" src="https://github.com/user-attachments/assets/b3a7ed7e-86e5-4774-9da4-c1005870060a" />
+
+
 Evening & Night - I continued work on circuit, hit a few problems - like powersurge protection logic, component availability
-                - I fianally finished teh oversurge protection part - this was the longest for me
+                - I fianally finished the oversurge protection part - this was the longest for me
                 - fixed the rgb led controler by replacing the old one with new one which has dual channel (earlier i was using 2 single channel - which was causing wiring issues)
                 - Almost done with the circuit
                 - **Total time : ~1 hr**
 
-        
+<img width="1169" height="827" alt="Schematic_Dongle001_2026-08-29 (1)" src="https://github.com/user-attachments/assets/d1fb063a-d240-4202-8f62-5aa4db89fbfb" />
+
 
 # DAY 2
 
@@ -40,6 +48,10 @@ Morning - I started assembling components in pcb
         - Knew I couldnt finish everything in 30 mins, so i asked for an extention, got it
         - **Total time : ~45 mins**
 
+<img width="1117" height="417" alt="image" src="https://github.com/user-attachments/assets/77b3b025-37fe-4006-8672-9c166169f8fd" />
+
+
+
 Evening - I started routing, it was so hard, there were too many components, this was my first time making such a dense pcb. I even tried autorouting.
         - (PS, now only I found out how to attach images to this file)
         <img width="1188" height="395" alt="image" src="https://github.com/user-attachments/assets/51d06e31-3a0c-4449-833f-77f917d7e8fb" />
@@ -48,6 +60,10 @@ Evening - I started routing, it was so hard, there were too many components, thi
         - Now autorouting worked ( i used an external auto router - FreeRouter ) and everything is connected
         - Took a Break
         - **Total time : ~2 hrs**
+
+<img width="902" height="872" alt="image" src="https://github.com/user-attachments/assets/ea318af8-0701-4cab-aac3-f13873540a38" />
+
+
         
 Night - I did some final checking and logical simulations to make sure it will work
       - then I worked on some design of the pcb (spent like 5 mins)
