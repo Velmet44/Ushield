@@ -93,11 +93,11 @@ The 3d printed enclousure will be designed soon
 
 The complete BOM, including quantities, supplier links, component prices, and shipping costs, is included in the repository.
 
-Project Status
+**Project Status**
 
 The project is complete, including the schematic, PCB, firmware-free hardware design, and manufacturing files.
 
-Components:
+**Components:**
 
 | #  | Part                        | Designators     |           Qty | Unit price |   Extended |
 | -- | --------------------------- | --------------- | ------------: | ---------: | ---------: |
@@ -129,13 +129,13 @@ Components:
 |    | **TOTAL**                   |                 | **43 pieces** |            | **$4.143** |
 
 
-PCB FAB: (its usually not this high, i dont know why its like this, maybe ill try a different provider)
+**PCB FAB**: (its usually not this high, i dont know why its like this, maybe ill try a different provider)
 
 
 <img width="1313" height="760" alt="image" src="https://github.com/user-attachments/assets/419b2054-2cf7-43c2-b735-b28e7dd7872d" />
 
 
-PCB Only - 5 USD + Shipping (~23 usd) (Taxes may be more, I am in India)
+**PCB Only** - 5 USD + Shipping (~23 usd) (Taxes may be more, I am in India)
 
 Some more pics:
 
