@@ -89,7 +89,20 @@ Morning - Was asked some changes:(route manually is the main thing, rest are for
 Night - I got some more time today after school and some other activities, decided to work on the docs, (mainly Journal), I calculated times for each session, and collected screenshots for day 1.
       - Finished almost all required changes except manual routing. It is really late now, so i decided I would finish that the next day, and i plan to use LAPSE for the first time on this  
       - **Total time : ~1 hr**
-        
+
+
+      
+# Day 4
+
+Morning - Started manuall routing (With LAPSE recording, see end of Day 4 for timelapse link)
+        - Again got stuck at the same few connections
+        - Decided to Continue in the evening(Had school).
+        - Total time : ~1 hr
+
+Evening - Continued Routing
+        - Finally adjusted some connections and managed to rout up everything!
+        - **Here is the LAPSE link** : https://lapse.hackclub.com/timelapse/zhhLOVxRxyuS (i recorded half during morning, pused it and finished in the evening)
+        - I then started preparing all the files for the repo - pcb, 3d, new quote with correct settings etc
 
 
 <img width="1140" height="421" alt="image" src="https://github.com/user-attachments/assets/b47a03a9-6b09-4c1d-8b6c-7ff79c4e0ab3" />
