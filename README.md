@@ -33,24 +33,27 @@ The power path is controlled separately using a P-channel MOSFET. This makes it 
 
 The current flowing to the connected device is measured using a low-value shunt resistor and current-sense amplifier. Comparator and logic circuitry are used to process the power-monitoring signals and control the status indicators.
 
-Modes
-OFF
+Modes:
+
+**OFF**
 
 The downstream USB port is completely disabled.
 
 No USB power
 No USB data
-POWER ONLY
+
+
+**POWER ONLY**
 
 The connected device can receive power, but the USB data lines remain disconnected.
 
 This is useful for charging a device without allowing USB data communication.
 
-POWER + DATA
+**POWER + DATA**
 
 The dongle behaves like a normal USB connection, with both power and USB 2.0 data available.
 
-Hardware
+**Hardware**
 
 The design includes:
 
@@ -79,21 +82,20 @@ Easy to use
 Small enough to carry around
 Useful without installing anything
 Capable of completely disabling USB access when required
-PCB
 
-The board uses a 4-layer design with separate attention given to the USB differential pair, power routing, and analog sensing circuitry.
+**PCB**
 
-The USB data path is kept short and routed separately from the more noisy power and control circuitry.
+The board uses a 2-layer design
 
 CAD
 
-The enclosure and mechanical assembly files are included in the repository along with the PCB source and manufacturing files.
+The 3d printed enclousure will be designed soon
 
 The complete BOM, including quantities, supplier links, component prices, and shipping costs, is included in the repository.
 
 Project Status
 
-The project is complete, including the schematic, PCB, firmware-free hardware design, enclosure, and manufacturing files.
+The project is complete, including the schematic, PCB, firmware-free hardware design, and manufacturing files.
 
 Components:
 
