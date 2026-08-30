@@ -82,7 +82,8 @@ Night - I did some final checking and logical simulations to make sure it will w
 
 Morning - Was asked some changes:(route manually is the main thing, rest are for readme, journal and fabrication)
         - I started investigating why the original Quote was high, found that the 2 usb conectors were big and could only be assembled with PCBA standard, so when i added the BOM, it changed my assembly mode from economic to standard, i decided that I will manually solder those 2 things, and switched back to PCBA economic
-        - **Total time : 20 mins**
+        - Then i tried to route maually, almost finished but i couldnt find any way to rout like 8 of them. So i had to scrap it. here is a LAPSE of me triying to route : https://lapse.hackclub.com/timelapse/xJ6XUpmo0znR
+        - **Total time : 45 mins**
         
 
 Night - I got some more time today after school and some other activities, decided to work on the docs, (mainly Journal), I calculated times for each session, and collected screenshots for day 1.
