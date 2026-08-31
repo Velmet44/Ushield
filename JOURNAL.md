@@ -81,9 +81,12 @@ Night - I did some final checking and logical simulations to make sure it will w
 # Day 3
 
 Morning - Was asked some changes:(route manually is the main thing, rest are for readme, journal and fabrication)
-        - I started investigating why the original Quote was high, found that the 2 usb conectors were big and could only be assembled with PCBA standard, so when i added the BOM, it changed my assembly mode from economic to standard, i decided that I will manually solder those 2 things, and switched back to PCBA economic
+        - I started investigating why the original Quote was high, found that the 2 usb conectors were big and could only be assembled with PCBA standard, so when i added the BOM, it changed my assembly mode from economic to standard, i decided that I will manually solder those 2 things, and switched back to PCBA economic. But while I was checking this, I found that 2 of the componwents i need are out of stock, so i dont know what to do, they are 0402 smd components, so i cant solder on my own :(
         - Then i tried to route maually, almost finished but i couldnt find any way to rout like 8 of them. So i had to scrap it. here is a LAPSE of **a part** of me triying to route : https://lapse.hackclub.com/timelapse/xJ6XUpmo0znR
         - **Total time : 1.5 hrs**
+
+<img width="1715" height="692" alt="image" src="https://github.com/user-attachments/assets/5d8596bf-67dd-42d9-aba3-029318b6a795" />
+
         
 
 Night - I got some more time today after school and some other activities, decided to work on the docs, (mainly Journal), I calculated times for each session, and collected screenshots for day 1.
@@ -103,7 +106,12 @@ Evening - Continued Routing
         - Finally adjusted some connections and managed to rout up everything!
         - **Here is the LAPSE link** : https://lapse.hackclub.com/timelapse/zhhLOVxRxyuS (i recorded half during morning, pused it and finished in the evening)
         - I then started preparing all the files for the repo - pcb, 3d, new quote with correct settings etc
-
+        - While getting quote, I found replacement for one of them, but other, still no solution
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/6a137657-a0c9-45cd-8623-cfa3a6a5e864" />
+        -I also just found that one of my components are too small for PCBA standard, so i have to replace that component with a new one:
+<img width="870" height="371" alt="image" src="https://github.com/user-attachments/assets/c443dc63-2de3-4353-9f91-b04517c92664" />
+        
+        
 
 <img width="1140" height="421" alt="image" src="https://github.com/user-attachments/assets/b47a03a9-6b09-4c1d-8b6c-7ff79c4e0ab3" />
 <img width="1152" height="391" alt="image" src="https://github.com/user-attachments/assets/d349ab9c-479c-4994-8f95-089c5ad420e7" />
