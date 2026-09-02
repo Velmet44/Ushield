@@ -89,31 +89,8 @@ The repository contains the enclosure and mechanical assembly files, including t
 
 The complete BOM is included in the repository with component quantities, manufacturer and supplier part numbers, footprints, prices, and supplier information.
 
-## Project Files
-
-```text
-PCB/
-    EasyEDA source
-    Gerbers
-    PCB PDF
-    Pick-and-place data
-    PCB 3D data
-
-Schematic/
-    EasyEDA source
-    Schematic PDF
-    Schematic PNG
-    Schematic SVG
-
-BOM/
-    BOM.csv
-
-CAD/
-    Enclosure and assembly files
-```
-
 ## Project Status
 
 Complete.
 
-The schematic, PCB, manufacturing files, and hardware design are finished.
+The schematic, PCB, manufacturing files, etc are finished.
