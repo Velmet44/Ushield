@@ -1,5 +1,7 @@
 # USB Security Dongle
 
+**Made In EasyESA**
+
 A compact hardware USB dongle that lets you physically control whether a connected USB device receives power, data, or nothing at all.
 
 ## Modes
