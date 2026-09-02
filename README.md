@@ -89,6 +89,11 @@ The repository contains the enclosure and mechanical assembly files, including t
 
 The complete BOM is included in the repository with component quantities, manufacturer and supplier part numbers, footprints, prices, and supplier information.
 
+# Quote
+
+<img width="1816" height="857" alt="image" src="https://github.com/user-attachments/assets/98f586ec-f5e8-4274-9c5b-7c6c34f8b289" />
+<img width="1746" height="872" alt="image" src="https://github.com/user-attachments/assets/ec5921fb-076b-42e7-b4bc-18376fa67c95" />
+
 ## Project Status
 
 Complete.
