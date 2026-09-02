@@ -111,13 +111,22 @@ Evening - Continued Routing
         -I also just found that one of my components are too small for PCBA standard, so i have to replace that component with a new one:
 <img width="870" height="371" alt="image" src="https://github.com/user-attachments/assets/c443dc63-2de3-4353-9f91-b04517c92664" />
         
-        
-
-<img width="1140" height="421" alt="image" src="https://github.com/user-attachments/assets/b47a03a9-6b09-4c1d-8b6c-7ff79c4e0ab3" />
-<img width="1152" height="391" alt="image" src="https://github.com/user-attachments/assets/d349ab9c-479c-4994-8f95-089c5ad420e7" />
-<img width="1102" height="392" alt="image" src="https://github.com/user-attachments/assets/daa3eca2-a419-46fd-94b7-c071d1b16ea2" />
-<img width="1169" height="827" alt="Schematic_Dongle001_2026-08-28 (1)" src="https://github.com/user-attachments/assets/d03087a6-0b5b-498b-94c3-5d31f505fb3e" />
 
 
+# Day 5
+
+I didnt work on the next day, very busy. this is the day after that:
+
+Evening - Finished routing
+        - Did Art
+        - Updated README and updated repo files
+        - now only need to get quote from JLC
 
 
+Night - I got quote, still one component tall or something so they wont assemble in economic, si ill manually solder that one after buying, one component out of stock, taht also i will buy seperately and solder. here are the quotes:
+
+<img width="1816" height="857" alt="image" src="https://github.com/user-attachments/assets/98f586ec-f5e8-4274-9c5b-7c6c34f8b289" />
+<img width="1746" height="872" alt="image" src="https://github.com/user-attachments/assets/ec5921fb-076b-42e7-b4bc-18376fa67c95" />
+
+
+Night - I got quote, another compi
